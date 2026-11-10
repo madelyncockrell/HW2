@@ -2,6 +2,6 @@
 
 Video demo: https://youtu.be/edO2Nx7s8WM
 
-Project files: https://github.com/madelyncockrell/HW_2
+Project files: https://github.com/madelyncockrell/HW2
 
 Note: main menu not implemented
